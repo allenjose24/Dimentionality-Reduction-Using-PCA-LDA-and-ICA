@@ -62,7 +62,7 @@ Below are the results of the clustering and dimensionality reduction analysis ac
 ### 1. Iris Dataset
 #### Cluster Visualization
 Original and PCA data clustering:
-![Iris Original and PCA Clustering](https://drive.google.com/file/d/1YQm7V13Xeg-yswQDooYguLDnnhV5Zswp/view?usp=drive_link)
+![Iris Original and PCA Clustering](https://github.com/AllenJose2110/Dimentionality-Reduction-Using-PCA-LDA-and-ICA/blob/main/Cancer%20-%20(LDA%20%26%20ICA).png)
 
 LDA and ICA transformed data:
 ![Iris LDA and ICA Clustering](https://drive.google.com/file/d/17wqbAAW51mg1VcNy441brod-54wjrakC/view?usp=sharing)
