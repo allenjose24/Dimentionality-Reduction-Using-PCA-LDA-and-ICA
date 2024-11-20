@@ -65,50 +65,47 @@ Original and PCA data clustering:
 ![Iris Original and PCA Clustering](https://github.com/AllenJose2110/Dimentionality-Reduction-Using-PCA-LDA-and-ICA/blob/main/Cancer%20-%20(LDA%20%26%20ICA).png)
 
 LDA and ICA transformed data:
-![Iris LDA and ICA Clustering](https://drive.google.com/file/d/17wqbAAW51mg1VcNy441brod-54wjrakC/view?usp=sharing)
+![Iris LDA and ICA Clustering](https://github.com/allenjose24/Dimentionality-Reduction-Using-PCA-LDA-and-ICA/blob/main/Iris%20-%20(LDA%20%26%20ICA).png)
 
 ### 2. Wine Dataset
 #### Cluster Visualization
 Original and PCA data clustering:
-![Wine Original and PCA Clustering](https://drive.google.com/file/d/1SZwL76ILtuxz1Kv4bSNaSCjBCGUvKq6A/view?usp=drive_link)
+![Wine Original and PCA Clustering](https://github.com/allenjose24/Dimentionality-Reduction-Using-PCA-LDA-and-ICA/blob/main/Wine%20-%20(Original%20%26%20PCA).png)
 
 LDA and ICA transformed data:
-![Wine LDA and ICA Clustering](https://drive.google.com/file/d/1tlod7lGsLyA75rMImnASiiZL0DR7mei2/view?usp=drive_link)
+![Wine LDA and ICA Clustering](https://github.com/allenjose24/Dimentionality-Reduction-Using-PCA-LDA-and-ICA/blob/main/Wine%20-%20(LDA%20%26%20ICA).png)
 
 ### 3. Breast Cancer Dataset
 #### Cluster Visualization
 Original and PCA data clustering:
-![Breast Cancer Original Clustering](https://drive.google.com/file/d/1-EeTsfur7bhhRqzpF_Ey0E5afWQGlpUO/view?usp=drive_link)
+![Breast Cancer Original Clustering](https://github.com/allenjose24/Dimentionality-Reduction-Using-PCA-LDA-and-ICA/blob/main/Cancer%20-%20(Original%20%26%20PCA).png)
 
 LDA and ICA transformed data:
-![Breast Cancer LDA and ICA Clustering](https://drive.google.com/file/d/1RHu01Mz12y5FYDEoXchBH0NwkdEW-UKb/view?usp=drive_link)
-
-ICA-transformed data:
-![Breast Cancer ICA Clustering](https://github.com/yourusername/project-name/blob/main/results/breast_cancer_ica_clustering.png?raw=true)
+![Breast Cancer LDA and ICA Clustering](https://github.com/allenjose24/Dimentionality-Reduction-Using-PCA-LDA-and-ICA/blob/main/Cancer%20-%20(LDA%20%26%20ICA).png)
 
 ### 4. Synthetic Dataset (make_blobs)
 #### Cluster Visualization
 Original and PCA data clustering:
-![Synthetic Original and PCA Clustering](https://drive.google.com/file/d/1OxefuhqW28JiXaOZGNTA77ZfF5ZKZSUg/view?usp=drive_link)
+![Synthetic Original and PCA Clustering](https://github.com/allenjose24/Dimentionality-Reduction-Using-PCA-LDA-and-ICA/blob/main/blobs%20-%20(Original%20-%20PCA).png)
 
 LDA and ICA transformed data:
-![Synthetic LDA and ICA Clustering](https://drive.google.com/file/d/1FdemEFA2t0cOG7rNTjpGcyLDb0T3w3kU/view?usp=drive_link)
+![Synthetic LDA and ICA Clustering](https://github.com/allenjose24/Dimentionality-Reduction-Using-PCA-LDA-and-ICA/blob/main/blobs%20-%20(LDA%20%26%20ICA).png)
 
 ### 5. Synthetic Dataset (make_moons)
 #### Cluster Visualization
 Original and PCA data clustering:
-![Synthetic Original and PCA Clustering](https://drive.google.com/file/d/14xz7pRTODDhtRd27aHld3dHb5V9x3ma8/view?usp=drive_link)
+![Synthetic Original and PCA Clustering](https://github.com/allenjose24/Dimentionality-Reduction-Using-PCA-LDA-and-ICA/blob/main/moons%20-%20(Original%20%26%20PCA).png)
 
 LDA and ICA transformed data:
-![Synthetic LDA and ICA Clustering](https://drive.google.com/file/d/1sY20wJBKO2JoLidCD3qBcMsXF13o1EBB/view?usp=drive_link)
+![Synthetic LDA and ICA Clustering](https://github.com/allenjose24/Dimentionality-Reduction-Using-PCA-LDA-and-ICA/blob/main/moons%20-%20(LDA%20%26%20ICA).png)
 
 ### 6. Synthetic Dataset (make_circles)
 #### Cluster Visualization
 Original and PCA data clustering:
-![Synthetic Original and PCA Clustering](https://drive.google.com/file/d/1n9kI58Vu5xQugS8QoiGApiRL4Fc2jsJ9/view?usp=drive_link)
+![Synthetic Original and PCA Clustering](https://github.com/allenjose24/Dimentionality-Reduction-Using-PCA-LDA-and-ICA/blob/main/circles%20-%20(Original%20%26%20PCA).png)
 
 LDA and ICA transformed data:
-![Synthetic LDA and ICA Clustering](https://drive.google.com/file/d/1vysM_2kUExUmErVK4Z7uNKEZ8uKUcMMy/view?usp=drive_link)
+![Synthetic LDA and ICA Clustering](https://github.com/allenjose24/Dimentionality-Reduction-Using-PCA-LDA-and-ICA/blob/main/circles%20-%20(LDA%20%26%20ICA).png)
 
 ## Running the Project
 
